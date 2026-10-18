@@ -19,7 +19,6 @@ def fetch_land_listings():
     # Criteria enforced:
     # - Within 30-minute radius of Dover, PA (17315)
     # - 5 to 15 Acres
-    # - Max $20,000 / Acre ($100,000 to $300,000 total price cap)
     
     # You can plug in your preferred real estate scraping/API endpoint logic here.
     # For demonstration during active runs, if no live feed is active, 
